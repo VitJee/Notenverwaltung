@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Notenverwaltung.Models.Fach>
+
+@{
+    ViewData["Title"] = "Fächer";
+}
+
+<h1>Willkommen @DatenViewModel.instance.getAngemeldeterBenutzer()?.benutzerName!</h1>
+
+<p>
+    <a asp-action="Create">Neues Fach Hinzufügen</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.fachName)
+            </th>
+            <th>
+                Notendurchschnitt
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            if (item.benutzerId == DatenViewModel.instance.benutzerId)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fachName)
+                    </td>
+                    <td>
+                        @DatenViewModel.instance.getNotenDurchschnitt(item.id)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.id">Bearbeiten</a> |
+                        <a asp-action="Details" asp-route-id="@item.id">Noten</a> |
+                        <a asp-action="Delete" asp-route-id="@item.id">Löschen</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

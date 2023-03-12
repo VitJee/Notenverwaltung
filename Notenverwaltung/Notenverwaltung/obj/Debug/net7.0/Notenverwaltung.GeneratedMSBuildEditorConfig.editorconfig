@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Notenverwaltung
+build_property.RootNamespace = Notenverwaltung
+build_property.ProjectDir = C:\Users\jeeva\Documents\IMS BBBaden Projekte\Notenverwaltung\Notenverwaltung\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jeeva\Documents\IMS BBBaden Projekte\Notenverwaltung\Notenverwaltung
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Benutzer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVudXR6ZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Benutzer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVudXR6ZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Benutzer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVudXR6ZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Benutzer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVudXR6ZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Benutzer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVudXR6ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Fach/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Fach/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Fach/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Fach/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Fach/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Note/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Note/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Note/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Note/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Note/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Shared/_LayoutNachAnmeldung.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROYWNoQW5tZWxkdW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jeeva/Documents/IMS BBBaden Projekte/Notenverwaltung/Notenverwaltung/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-c1lpd9icdd

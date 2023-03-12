@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Notenverwaltung.Models.Note>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Fach - @DatenViewModel.instance.fachName</h1>
+
+<h4>Notendurchschnitt: @DatenViewModel.instance.getNotenDurchschnitt(DatenViewModel.instance.fachId)</h4>
+
+<p>
+    <a asp-action="Create">Note Hinzufügen</a>
+</p>
+<p>
+    <a asp-action="Zurueck">Zurück</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.note)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gewichtung)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            if (item.fachId == DatenViewModel.instance.fachId)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.note)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.gewichtung)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.id">Bearbeiten</a> |
+                        <a asp-action="Delete" asp-route-id="@item.id">Löschen</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
